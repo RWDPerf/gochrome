@@ -1,2 +1,1 @@
-# gochrome
-Chrome remote debugging protocol v1.1 client. Partial implementation.
+# Moved to https://github.com/lafikl/gochrome
